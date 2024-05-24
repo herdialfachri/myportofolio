@@ -6,14 +6,16 @@ use App\Models\ContactModel;
 
 class Home extends BaseController
 {
-    public function portofolio(): string
+    public function portofolio()
     {
         return view('index');
     }
 
-    public function collaborate(): string
+    public function collaborate()
     {
-        return view('collaborate');
+        $contactModel = new ContactModel();
+        $data['contacts'] = $contactModel->getContacts();
+        return view('collaborate', $data);
     }
 
     public function project()

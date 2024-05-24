@@ -67,7 +67,7 @@
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item page-scroll" href="#">Graphic Design</a>
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item page-scroll" href="#">Collaborate</a>
+                            <a class="dropdown-item page-scroll" href="collaborate">Collaborate</a>
                         </div>
                     </li>
                     <li class="nav-item">

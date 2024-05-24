@@ -73,7 +73,7 @@
                 </ul>
                 <span class="nav-item social-icons">
                     <span class="fa-stack">
-                        <a href="#your-link">
+                        <a href="https://www.facebook.com/hermhmd8/">
                             <i class="fas fa-circle fa-stack-2x"></i>
                             <i class="fab fa-facebook-f fa-stack-1x"></i>
                         </a>
@@ -161,21 +161,21 @@
                     <div class="text-box">
                         <i class="far fa-gem"></i>
                         <h4>DESIGN</h4>
-                        <p>Successful online projects start with good design. It establishes a solid foundation for future development and allows for long term growth</p>
+                        <p>Successful online projects start with good design. It establishes a solid foundation for future development and allows for long term growth.</p>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
                 <div class="col-lg-4">
                     <div class="text-box">
                         <i class="fas fa-code"></i>
                         <h4>DEVELOPMENT</h4>
-                        <p>I can code my own designs or even use the customer's design as base. My focus is to generate clean code that's well structured for reliability</p>
+                        <p>I can code my own designs or even use the customer's design as base. My focus is to generate clean code that's well structured for reliability.</p>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
                 <div class="col-lg-4">
                     <div class="text-box">
                         <i class="fas fa-tv"></i>
                         <h4>NETWORKING</h4>
-                        <p>i can setup your project to use basic SEO principles which will push your project to the first page on search engines and save you ads money</p>
+                        <p>I can secure the network using Mikrotik technology and share bandwidth to many areas with very little capital and of course flexible.</p>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -284,7 +284,7 @@
                             </a>
                         </span>
                         <span class="fa-stack">
-                            <a href="#">
+                            <a href="#your-link">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-twitter fa-stack-1x"></i>
                             </a>
@@ -302,7 +302,7 @@
                             </a>
                         </span>
                         <span class="fa-stack">
-                            <a href="#">
+                            <a href="#your-link">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-youtube fa-stack-1x"></i>
                             </a>
@@ -320,19 +320,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <p class="p-small">Copyright © <a class="no-line" href="#your-link">Your name</a></p>
+                    <p class="p-small">Copyright © <a class="no-line" href="#your-link">M. Herdi Al-Fachri</a></p>
                 </div> <!-- end of col -->
             </div> <!-- enf of row -->
         </div> <!-- end of container -->
-
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <p class="p-small">Distributed By <a class="no-line" href="https://themewagon.com/">Themewagon</a></p>
-                </div> <!-- end of col -->
-            </div> <!-- enf of row -->
-        </div> <!-- end of container -->
-        
     </div> <!-- end of copyright --> 
     <!-- end of copyright -->
     
